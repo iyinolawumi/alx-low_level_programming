@@ -1,2 +1,2 @@
 # alx-low_level_programming
-Understanding C++
+Understanding C Programming 
